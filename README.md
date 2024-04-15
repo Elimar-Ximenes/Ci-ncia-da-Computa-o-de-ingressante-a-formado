@@ -1,3 +1,3 @@
-# PROJETO PAIP: Ciência da Computação: de ingressante a formado
+# PROJETO PAIP - Ciência da Computação: de ingressante a formado
 
 ## Orientações
