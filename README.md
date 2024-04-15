@@ -1,3 +1,3 @@
-# PROGRAMA DE ACOLHIMENTO E INCENTIVO À PERMANÊNCIA(PAIP)
+# PROJETO PAIP: Ciência da Computação: de ingressante a formado
 
 ## Orientações
