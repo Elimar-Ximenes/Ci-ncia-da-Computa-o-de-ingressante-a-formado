@@ -2,4 +2,5 @@
 
 ## Orientações e Tutoriais
 
+## Links Principais
 * [Estrutura Curricular e Projeto Pedagógico de Curso (PPC) Ciência da Computação ](https://prograd.ufc.br/pt/cursos-de-graduacao/ciencia-da-computacao-crateus/)
